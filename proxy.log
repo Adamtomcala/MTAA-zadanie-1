@@ -1,0 +1,13 @@
+10:21:10:INFO:>>> Server zacal bezat o: Tue, 01 Mar 2022 10:21:10 <<<
+10:21:10:INFO:>>> Na IP adrese: 147.175.191.211 <<<
+
+10:21:14:INFO:>>> Registracna sprava od pouzivatela Test1 <<<
+
+10:21:19:INFO:>>> Registracna sprava od pouzivatela testtt <<<
+
+10:21:26:INFO:>>> Pouzivatel testtt vytaca pouzivatela Test1 (audio), call-id Oxo2RAvl58 <<<
+
+10:21:29:INFO:>>> Pouzivatel Test1 zdvihol hovor, call-id Oxo2RAvl58 <<<
+
+10:21:34:INFO:>>> Pouzivatel testtt ukoncil hovor s pouzivatelom Test1, call-id Oxo2RAvl58 <<<
+
